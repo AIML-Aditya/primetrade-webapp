@@ -1,0 +1,28 @@
+PS C:\Users\epica\Desktop\project>
+PS C:\Users\epica\Desktop\project> cd frontend
+>> npm run dev
+>> 
+
+> scalable-frontend@1.0.0 dev
+> vite
+
+
+  VITE v5.4.21  ready in 450 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+PS C:\Users\epica\Desktop\project> cd backend
+>> npm run dev
+
+> scalable-app-backend@1.0.0 dev
+> nodemon server.js
+
+[nodemon] 2.0.22
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node server.js`
+✅ Backend running on port 5000
+MongoDB Connected
